@@ -1,0 +1,22 @@
+.carousel{
+  
+    height: 300px;
+}
+.footer{
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-family:'lobster';
+  
+
+}
+.letra{
+    font-family: 'Lobster', ;
+
+    color:black;
+}
+
+
+.titulo{
+    font-family:'lobster','cursive';
+    color:rgb(48, 77, 78);
