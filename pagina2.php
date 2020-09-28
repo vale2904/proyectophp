@@ -70,11 +70,11 @@
       <h6>El jinete de bronce
           Paullina Simons  
            $ 25,99
-        </h2>
+        </h6>
         <img src="img/mkun.png" alt="mk">
       <h6>la insoportable levedad del ser
           Milan  Kundera   $ 31,99
-        </h2>  
+        </h6>  
 
     </div>
     
