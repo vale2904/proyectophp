@@ -10,7 +10,7 @@
   
   <body> 
     <header class="letra" >    
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav>class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="#">
          <img src="img/icone.png" width="30" height="30" alt="" loading="lazy">
           Valeria's Bookstore </a>
@@ -27,8 +27,9 @@
             </li>
             
         </ul>
-    </div>
-    </nav>
+    </div></nav>
+     
+    
     </header>
 
     <main class="titulo">
